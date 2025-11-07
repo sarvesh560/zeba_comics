@@ -1,0 +1,8 @@
+<resources>
+    <string name="default_web_client_id">
+        174571112047-ctfjb2p54c2j5b9b8h7mdtf1pdtptopf.apps.googleusercontent.com
+    </string>
+
+    <string name="facebook_app_id">YOUR_FACEBOOK_APP_ID</string>
+    <string name="facebook_client_token">YOUR_CLIENT_TOKEN</string>
+</resources>
